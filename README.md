@@ -75,8 +75,7 @@ Criar um sistema capaz de armazenar e gerenciar dados de forma eficiente, garant
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosruddy&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -86,8 +85,12 @@ Criar um sistema capaz de armazenar e gerenciar dados de forma eficiente, garant
 - 📧 seuemail@email.com  
 - 💼 LinkedIn: (adicione quando tiver)
 
+---
+
+## 📊 Linguagens mais usadas
+
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=tokyonight&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosruddy&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
