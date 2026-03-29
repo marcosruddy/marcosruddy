@@ -86,4 +86,8 @@ Criar um sistema capaz de armazenar e gerenciar dados de forma eficiente, garant
 - 📧 seuemail@email.com  
 - 💼 LinkedIn: (adicione quando tiver)
 
-- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=tokyonight)
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=tokyonight&langs_count=6"/>
+</p>
