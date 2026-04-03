@@ -75,6 +75,6 @@ Criar um sistema capaz de armazenar e gerenciar dados de forma eficiente, garant
 
 ## 📫 Contato
 
-- 📧 seuemail@email.com  
-- 💼 LinkedIn: (adicione quando tiver)
+- 📧 marcosruddy2006@gmail.com  
+- 💼 infojobbs : Marcos Ruddy
 
